@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://dineshkokkirala369:dinesh123@e-commerce-cluster.dfv3ypq.mongodb.net/?retryWrites=true&w=majority&appName=e-commerce-cluster",
+    "jwtSecret": "secret"
+  }
